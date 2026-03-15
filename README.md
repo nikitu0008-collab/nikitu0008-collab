@@ -25,11 +25,12 @@
     <td width="50%">
       <h3 align="center">🇷🇺 Русский</h3>
       <p align="center">
-        Я C++ Backend разработчик. Мой путь в IT начался с интереса к тому, как работают высоконагруженные системы под капотом.
+        Я C++ Backend разработчик, влюблённый в этот язык. Мой путь в IT начался с интереса к тому, как работают высоконагруженные системы под капотом, и с тех пор я кайфую от написания эффективного и надёжного кода на C++.
       </p>
       <ul>
-        <li>🔭 Сейчас активно изучаю <strong>C++20</strong> и многопоточное программирование</li>
-        <li>🌱 Пишу pet-проекты для применения новых знаний</li>
+        <li>🔭 Сейчас активно изучаю <strong>C++20/23</strong> и многопоточное программирование</li>
+        <li>💻 Обожаю писать разные коды на C++ — от небольших утилит до архитектуры бэкенда</li>
+        <li>🌱 Постоянно экспериментирую в pet-проектах, чтобы применять новые знания</li>
         <li>⚡ Люблю находить неочевидные баги и оптимизировать код</li>
         <li>💬 Свободно говорю на русском и английском</li>
       </ul>
@@ -37,11 +38,12 @@
     <td width="50%">
       <h3 align="center">🇬🇧 English</h3>
       <p align="center">
-        I'm a C++ Backend Developer. My journey in IT started with an interest in how high-load systems work under the hood.
+        I'm a C++ Backend Developer, deeply in love with the language. My journey started with a curiosity about how high-load systems work under the hood, and ever since, I've enjoyed writing efficient and reliable C++ code.
       </p>
       <ul>
-        <li>🔭 Currently diving deep into <strong>C++20</strong> and multithreading</li>
-        <li>🌱 Building pet projects to apply new knowledge</li>
+        <li>🔭 Currently diving deep into <strong>C++20/23</strong> and multithreading</li>
+        <li>💻 I love writing all kinds of C++ code — from small utilities to backend architecture</li>
+        <li>🌱 Constantly experimenting with pet projects to apply new knowledge</li>
         <li>⚡ Love finding non-obvious bugs and optimizing code</li>
         <li>💬 Fluent in Russian and English</li>
       </ul>
@@ -52,16 +54,16 @@
 <!-- Разделитель / Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🛠️ <span>Языки и инструменты</span> | <span>Languages and Tools</span>
+## 🛠️ <span>Мой стек</span> | <span>My Stack</span>
 
 <div align="center">
   
-| Category | Technologies |
+| Категория | Технологии |
 |----------|-------------|
-| **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **OS & Scripting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Build Tools** | ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| **Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Язык / Language** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) |
+| **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
@@ -78,38 +80,23 @@
   </tr>
   <tr>
     <td>
-      <b>🚀 HTTP Сервер</b><br>
-      <i>Стек: C++20, Boost.Asio, Многопоточность</i><br>
-      Асинхронный сервер с пулом потоков
+      <b>⚙️ CppCraft</b><br>
+      <i>Стек: C++</i><br>
+      Моя песочница для экспериментов и изучения возможностей C++. Здесь я собираю интересные шаблоны, фишки языка и небольшие учебные примеры.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Перейти в репозиторий</a>
     </td>
     <td>
-      <b>🚀 HTTP Server</b><br>
-      <i>Stack: C++20, Boost.Asio, Multithreading</i><br>
-      Async server with thread pool
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📊 Логгер</b><br>
-      <i>Стек: C++17, Filesystem</i><br>
-      Асинхронная библиотека для логирования
-    </td>
-    <td>
-      <b>📊 Logger Library</b><br>
-      <i>Stack: C++17, Filesystem</i><br>
-      Async logging library
+      <b>⚙️ CppCraft</b><br>
+      <i>Stack: C++</i><br>
+      My sandbox for experimenting and learning C++ features. Here I collect interesting patterns, language tricks, and small educational examples.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Go to repository</a>
     </td>
   </tr>
   <tr>
-    <td>
-      <b>💬 Messenger Backend</b><br>
-      <i>Стек: gRPC, PostgreSQL, JWT</i><br>
-      Бэкенд для мессенджера
-    </td>
-    <td>
-      <b>💬 Messenger Backend</b><br>
-      <i>Stack: gRPC, PostgreSQL, JWT</i><br>
-      Messenger backend service
+    <td colspan="2" align="center">
+      <i>✨ Здесь скоро появятся новые проекты ✨</i>
     </td>
   </tr>
 </table>
@@ -117,29 +104,29 @@
 <!-- Разделитель / Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 <span>Статистика GitHub</span> | <span>GitHub Stats</span>
+## 📊 <span>Немного статистики</span> | <span>GitHub Stats</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Languages" height="150"/>
+  <!-- Я убрал гистограмму с языками и оставил только общую статистику, чтобы сделать акцент на C++ -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true" alt="GitHub Stats" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" alt="Activity Graph"/>
 </div>
 
 <!-- Разделитель / Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📫 <span>Связаться со мной</span> | <span>Contact Me</span>
+## 📫 <span>Контакты</span> | <span>Contact Me</span>
 
 <div align="center">
   
-| Platform | Link |
-|----------|------|
+| Платформа | Ссылка |
+|----------|--------|
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | [@NikiZ1p](https://t.me/NikiZ1p) |
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [nikitu0008-collab](https://github.com/nikitu0008-collab) |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | Добавь свою почту |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [nikitu0008@gmail.com](mailto:nikitu0008@gmail.com) |
 
 </div>
 
@@ -151,5 +138,5 @@
   
   ### ⭐️ Открыт к предложениям! | ⭐️ Open to opportunities!
   
-  <sub>Last updated: March 2025</sub>
+  <sub>Последнее обновление: Март 2025</sub>
 </div>
