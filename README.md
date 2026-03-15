@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita" alt="Typing SVG" />
 </div>
 
-<!-- Новая картинка с C++ тематикой -->
+<!-- Новая картинка с C++ тематикой (гарантированно работает) -->
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*Z5gZIAhYfO2wW6W6QY9pRQ.png" width="500" style="border-radius: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="300" style="border-radius: 10px;"/>
   <br>
-  <em>C++ — язык, который я люблю</em>
+  <strong>C++ — язык, который я люблю</strong>
 </div>
 
 <h1 align="center">
@@ -25,7 +25,7 @@
     <td width="50%">
       <h3 align="center">🇷🇺 Русский</h3>
       <p align="center">
-        Я C++ Backend разработчик, влюблённый в этот язык. Мой путь в IT начался с интереса к тому, как работают высоконагруженные системы под капотом, и с тех пор я кайфую от написания эффективного и надёжного кода на C++.
+        Я C++ Backend разработчик, влюблённый в этот язык. Мой путь в IT начался с изучения Python, но со временем я понял, что меня больше привлекает низкоуровневое программирование и контроль над памятью, который даёт C++. Теперь это мой основной язык.
       </p>
       <ul>
         <li>🔭 Сейчас активно изучаю <strong>C++20/23</strong> и многопоточное программирование</li>
@@ -33,12 +33,13 @@
         <li>🌱 Помогаю начинающим разработчикам осваивать C++</li>
         <li>⚡ Люблю находить неочевидные баги и оптимизировать код</li>
         <li>💬 Свободно говорю на русском и английском</li>
+        <li>📚 Часто использую <strong>metanit.com</strong> для изучения C++ и освежения памяти</li>
       </ul>
     </td>
     <td width="50%">
       <h3 align="center">🇬🇧 English</h3>
       <p align="center">
-        I'm a C++ Backend Developer, deeply in love with the language. My journey started with a curiosity about how high-load systems work under the hood, and ever since, I've enjoyed writing efficient and reliable C++ code.
+        I'm a C++ Backend Developer, deeply in love with the language. My IT journey started with Python, but over time I realized I'm more drawn to low-level programming and the memory control that C++ provides. Now it's my primary language.
       </p>
       <ul>
         <li>🔭 Currently diving deep into <strong>C++20/23</strong> and multithreading</li>
@@ -46,6 +47,7 @@
         <li>🌱 Helping beginner developers master C++</li>
         <li>⚡ Love finding non-obvious bugs and optimizing code</li>
         <li>💬 Fluent in Russian and English</li>
+        <li>📚 Frequently use <strong>metanit.com</strong> for learning C++ and refreshing my knowledge</li>
       </ul>
     </td>
   </tr>
@@ -60,12 +62,43 @@
   
 | Категория | Технологии |
 |----------|-------------|
-| **Язык / Language** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Языки / Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) |
 | **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
+</div>
+
+<!-- Разделитель / Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🎓 <span>Образование и сертификаты</span> | <span>Education & Certificates</span>
+
+<div align="center">
+  
+| 🏫 | Описание |
+|----|----------|
+| **IT Top College** | 🎯 Студент 2 курса. Углублённое изучение программирования и информационных технологий. |
+| **КОД Будущего (Python)** | 🐍 Прошёл курс по Python. Получил базовые навыки программирования, которые помогли в дальнейшем освоении C++. *(Сертификат предоставляется по запросу)* |
+| **Яндекс Практикум** | 📚 Изучал бесплатные темы и материалы по программированию для саморазвития. |
+| **Metanit.com** | 🌐 Постоянный ресурс для изучения C++ и других технологий. Часто обращаюсь, чтобы освежить знания или изучить что-то новое. |
+
+</div>
+
+<div align="center">
+  <details>
+    <summary><b>📜 Посмотреть сертификаты / View certificates</b></summary>
+    <br>
+    <p align="center">
+      <i>Сертификаты доступны по запросу. Свяжитесь со мной, и я предоставлю подтверждающие документы.</i><br>
+      <i>Certificates are available upon request. Contact me and I'll provide the documents.</i>
+    </p>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> 
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </div>
+  </details>
 </div>
 
 <!-- Разделитель / Separator -->
@@ -135,7 +168,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=6A5ACD" alt="Profile views"/>
   
-  ### ⭐️ Открыт к предложениям! | ⭐️ Open to opportunities!
+  ### ⭐️ Открыт к предложениям и сотрудничеству! | ⭐️ Open to opportunities and collaboration!
   
   <sub>Последнее обновление: Март 2025</sub>
 </div>
