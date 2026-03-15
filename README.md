@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita" alt="Typing SVG" />
 </div>
 
-<!-- Картинка C++ Developer / C++ Developer Image -->
+<!-- Новая картинка с C++ тематикой -->
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15049.jpg" width="400" style="border-radius: 20px;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*Z5gZIAhYfO2wW6W6QY9pRQ.png" width="500" style="border-radius: 10px;"/>
   <br>
-  <em>Photo by Freepik</em>
+  <em>C++ — язык, который я люблю</em>
 </div>
 
 <h1 align="center">
@@ -30,7 +30,7 @@
       <ul>
         <li>🔭 Сейчас активно изучаю <strong>C++20/23</strong> и многопоточное программирование</li>
         <li>💻 Обожаю писать разные коды на C++ — от небольших утилит до архитектуры бэкенда</li>
-        <li>🌱 Постоянно экспериментирую в pet-проектах, чтобы применять новые знания</li>
+        <li>🌱 Помогаю начинающим разработчикам осваивать C++</li>
         <li>⚡ Люблю находить неочевидные баги и оптимизировать код</li>
         <li>💬 Свободно говорю на русском и английском</li>
       </ul>
@@ -43,7 +43,7 @@
       <ul>
         <li>🔭 Currently diving deep into <strong>C++20/23</strong> and multithreading</li>
         <li>💻 I love writing all kinds of C++ code — from small utilities to backend architecture</li>
-        <li>🌱 Constantly experimenting with pet projects to apply new knowledge</li>
+        <li>🌱 Helping beginner developers master C++</li>
         <li>⚡ Love finding non-obvious bugs and optimizing code</li>
         <li>💬 Fluent in Russian and English</li>
       </ul>
@@ -80,16 +80,16 @@
   </tr>
   <tr>
     <td>
-      <b>⚙️ CppCraft</b><br>
+      <b>🎓 CppCraft</b><br>
       <i>Стек: C++</i><br>
-      Моя песочница для экспериментов и изучения возможностей C++. Здесь я собираю интересные шаблоны, фишки языка и небольшие учебные примеры.
+      Образовательный проект, который помогает начинающим программистам и студентам быстро создать базовую структуру кода на C++. Содержит шаблоны, примеры и лучшие практики для старта.
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Перейти в репозиторий</a>
     </td>
     <td>
-      <b>⚙️ CppCraft</b><br>
+      <b>🎓 CppCraft</b><br>
       <i>Stack: C++</i><br>
-      My sandbox for experimenting and learning C++ features. Here I collect interesting patterns, language tricks, and small educational examples.
+      An educational project that helps beginner programmers and students quickly create a basic C++ code structure. Contains templates, examples, and best practices to get started.
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Go to repository</a>
     </td>
@@ -107,7 +107,6 @@
 ## 📊 <span>Немного статистики</span> | <span>GitHub Stats</span>
 
 <div align="center">
-  <!-- Я убрал гистограмму с языками и оставил только общую статистику, чтобы сделать акцент на C++ -->
   <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true" alt="GitHub Stats" width="60%"/>
 </div>
 
