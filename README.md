@@ -11,7 +11,7 @@
 <h1 align="center">Привет, я Nikita! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## About me
-Я C++ Backend Developer...
+I'm C++ Backend Developer...
 
 ## Languages and Tools
 
@@ -27,5 +27,5 @@
 
 ## Follow Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_ник)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NikiZ1p)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitu0008-collab)
