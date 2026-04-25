@@ -1,30 +1,32 @@
-<!-- Анимированный заголовок / Animated Header -->
+<!-- Анимированный заголовок -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita;Open+to+collaboration" alt="Typing SVG" />
 </div>
 
-<!-- Новая картинка с C++ тематикой (гарантированно работает) -->
+<!-- Логотип C++ с тенью -->
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="300" style="border-radius: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="280" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
   <br>
-  <strong>C++ — язык, который я люблю</strong>
+  <strong>⚡ C++ — мой выбор для производительности и контроля</strong>
 </div>
 
 <h1 align="center">
-  <span>👋 Привет, я Nikita!</span> | 
-  <span>👋 Hi, I'm Nikita!</span>
+  👋 <span style="color:#6A5ACD;">Привет, я Nikita!</span> | 
+  👋 <span style="color:#6A5ACD;">Hi, I'm Nikita!</span>
 </h1>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> <span>Обо мне</span> | <span>About Me</span>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> <span>Обо мне</span> | <span>About Me</span>
 
-<table>
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td width="50%">
+    <td style="width:50%; vertical-align:top; background-color:#F8F9FA; border-radius:12px; padding:15px;">
       <h3 align="center">🇷🇺 Русский</h3>
-      <p align="center">
+      <p align="justify">
         Я C++ Backend разработчик, влюблённый в этот язык. Мой путь в IT начался с изучения Python, но со временем я понял, что меня больше привлекает низкоуровневое программирование и контроль над памятью, который даёт C++. Теперь это мой основной язык.
       </p>
       <ul>
@@ -36,9 +38,9 @@
         <li>📚 Часто использую <strong>metanit.com</strong> для изучения C++ и освежения памяти</li>
       </ul>
     </td>
-    <td width="50%">
+    <td style="width:50%; vertical-align:top; background-color:#F8F9FA; border-radius:12px; padding:15px;">
       <h3 align="center">🇬🇧 English</h3>
-      <p align="center">
+      <p align="justify">
         I'm a C++ Backend Developer, deeply in love with the language. My IT journey started with Python, but over time I realized I'm more drawn to low-level programming and the memory control that C++ provides. Now it's my primary language.
       </p>
       <ul>
@@ -53,73 +55,77 @@
   </tr>
 </table>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
 
 ## 🛠️ <span>Мой стек</span> | <span>My Stack</span>
 
 <div align="center">
-  
+
 | Категория | Технологии |
 |----------|-------------|
 | **Языки / Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) |
-| **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
 
 ## 🎓 <span>Образование и сертификаты</span> | <span>Education & Certificates</span>
 
 <div align="center">
-  
+
 | 🏫 | Описание |
 |----|----------|
-| **IT Top College** | 🎯 Студент 2 курса. Углублённое изучение программирования и информационных технологий. |
-| **КОД Будущего (Python)** | 🐍 Прошёл курс по Python. Получил базовые навыки программирования, которые помогли в дальнейшем освоении C++. *(Сертификат предоставляется по запросу)* |
-| **Яндекс Практикум** | 📚 Изучал бесплатные темы и материалы по программированию для саморазвития. |
-| **Metanit.com** | 🌐 Постоянный ресурс для изучения C++ и других технологий. Часто обращаюсь, чтобы освежить знания или изучить что-то новое. |
+| 🎓 **IT Top College** | 🎯 Студент 2 курса. Углублённое изучение программирования и информационных технологий. |
+| 🐍 **КОД Будущего (Python)** | Прошёл курс по Python. Получил базовые навыки программирования, которые помогли в дальнейшем освоении C++. *(Сертификат предоставляется по запросу)* |
+| 📚 **Яндекс Практикум** | Изучал бесплатные темы и материалы по программированию для саморазвития. |
+| 🌐 **Metanit.com** | Постоянный ресурс для изучения C++ и других технологий. Часто обращаюсь, чтобы освежить знания или изучить что-то новое. |
 
 </div>
 
+<details>
+<summary><b>📜 Посмотреть сертификаты / View certificates</b></summary>
+<br>
+<p align="center">
+  <i>Сертификаты доступны по запросу. Свяжитесь со мной, и я предоставлю подтверждающие документы.</i><br>
+  <i>Certificates are available upon request. Contact me and I'll provide the documents.</i>
+</p>
 <div align="center">
-  <details>
-    <summary><b>📜 Посмотреть сертификаты / View certificates</b></summary>
-    <br>
-    <p align="center">
-      <i>Сертификаты доступны по запросу. Свяжитесь со мной, и я предоставлю подтверждающие документы.</i><br>
-      <i>Certificates are available upon request. Contact me and I'll provide the documents.</i>
-    </p>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> 
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </div>
-  </details>
+  <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
+</details>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
 
 ## 📌 <span>Мои проекты</span> | <span>My Projects</span>
 
-<table>
-  <tr>
-    <th width="50%">🇷🇺 Проект</th>
-    <th width="50%">🇬🇧 Project</th>
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#E9ECEF;">
+    <th style="width:50%; padding:12px;">🇷🇺 Проект</th>
+    <th style="width:50%; padding:12px;">🇬🇧 Project</th>
   </tr>
   <tr>
-    <td>
+    <td style="vertical-align:top; padding:15px;">
       <b>🎓 CppCraft</b><br>
       <i>Стек: C++</i><br>
       Образовательный проект, который помогает начинающим программистам и студентам быстро создать базовую структуру кода на C++. Содержит шаблоны, примеры и лучшие практики для старта.
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Перейти в репозиторий</a>
     </td>
-    <td>
+    <td style="vertical-align:top; padding:15px;">
       <b>🎓 CppCraft</b><br>
       <i>Stack: C++</i><br>
       An educational project that helps beginner programmers and students quickly create a basic C++ code structure. Contains templates, examples, and best practices to get started.
@@ -128,27 +134,52 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="padding:15px;">
       <i>✨ Здесь скоро появятся новые проекты ✨</i>
     </td>
   </tr>
 </table>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
 
 ## 📊 <span>Немного статистики</span> | <span>GitHub Stats</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true" alt="GitHub Stats" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED" width="55%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=6A5ACD&point=FFFFFF" width="95%" alt="Activity Graph"/>
 </div>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
+
+## 🎯 <span>Мои цели на ближайшее время</span> | <span>Current goals</span>
+
+<div align="center">
+  <table style="width:80%;">
+    <tr>
+      <td>✅ Изучить асинхронное программирование в C++</td>
+      <td>🔜 Написать свой HTTP-сервер на C++</td>
+    </tr>
+    <tr>
+      <td>✅ Углубиться в STL и алгоритмы</td>
+      <td>🔜 Внести вклад в open-source проект на C++</td>
+    </tr>
+  </table>
+</div>
+
+<!-- Декоративный разделитель -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+</div>
 
 ## 📫 <span>Контакты</span> | <span>Contact Me</span>
 
@@ -156,19 +187,16 @@
   
 | Платформа | Ссылка |
 |----------|--------|
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | [@NikiZ1p](https://t.me/NikiZ1p) |
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [nikitu0008-collab](https://github.com/nikitu0008-collab) |
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | [nikitu0008@gmail.com](mailto:nikitu0008@gmail.com) |
+| 📱 **Telegram** | [@NikiZ1p](https://t.me/NikiZ1p) |
+| 🖥️ **GitHub** | [nikitu0008-collab](https://github.com/nikitu0008-collab) |
+| 📧 **Gmail** | [nikitu0008@gmail.com](mailto:nikitu0008@gmail.com) |
 
 </div>
 
-<!-- Разделитель / Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=6A5ACD" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=6A5ACD&label=Profile+Views" alt="Profile views"/>
   
   ### ⭐️ Открыт к предложениям и сотрудничеству! | ⭐️ Open to opportunities and collaboration!
   
-  <sub>Последнее обновление: Март 2025</sub>
+  <sub>Последнее обновление: Апрель 2026</sub>
 </div>
