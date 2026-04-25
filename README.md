@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita;Open+to+collaboration" alt="Typing SVG" />
 </div>
 
-<!-- Логотип C++ с тенью -->
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="280" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
-  <br>
-  <strong>⚡ C++ — мой выбор для производительности и контроля</strong>
-</div>
-
 <h1 align="center">
   👋 <span style="color:#6A5ACD;">Привет, я Nikita!</span> | 
   👋 <span style="color:#6A5ACD;">Hi, I'm Nikita!</span>
@@ -52,7 +45,7 @@
         <li>📚 Frequently use <strong>metanit.com</strong> for learning C++ and refreshing my knowledge</li>
       </ul>
     </td>
-  </tr>
+  </table>
 </table>
 
 <!-- Декоративный разделитель -->
@@ -68,11 +61,13 @@
 |----------|-------------|
 | **Языки / Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 | **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
+
+> 💡 **Мой Neovim config**: [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — полностью настроенная среда для C++ разработки.
 
 <!-- Декоративный разделитель -->
 <div align="center">
@@ -116,7 +111,7 @@
   <tr style="background-color:#E9ECEF;">
     <th style="width:50%; padding:12px;">🇷🇺 Проект</th>
     <th style="width:50%; padding:12px;">🇬🇧 Project</th>
-  </tr>
+  <tr>
   <tr>
     <td style="vertical-align:top; padding:15px;">
       <b>🎓 CppCraft</b><br>
@@ -132,6 +127,22 @@
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Go to repository</a>
     </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; padding:15px;">
+      <b>💬 Мессенджер для колледжа</b><br>
+      <i>Стек: C++ (Boost.Asio), PostgreSQL</i><br>
+      Асинхронный сервер мессенджера на базе <strong>Boost.Asio</strong>. Позволяет обмениваться сообщениями в реальном времени. В разработке: авторизация, комнаты, история сообщений.
+      <br>
+      🚧 <i>Проект в активной разработке</i>
+    </td>
+    <td style="vertical-align:top; padding:15px;">
+      <b>💬 College Messenger</b><br>
+      <i>Stack: C++ (Boost.Asio), PostgreSQL</i><br>
+      An asynchronous messenger server built with <strong>Boost.Asio</strong>. Enables real-time messaging. In progress: authentication, rooms, message history.
+      <br>
+      🚧 <i>Under active development</i>
+     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding:15px;">
@@ -166,8 +177,8 @@
 <div align="center">
   <table style="width:80%;">
     <tr>
-      <td>✅ Изучить асинхронное программирование в C++</td>
-      <td>🔜 Написать свой HTTP-сервер на C++</td>
+      <td>✅ Изучить асинхронное программирование в C++ (Boost.Asio)</td>
+      <td>🔜 Завершить MVP мессенджера для колледжа</td>
     </tr>
     <tr>
       <td>✅ Углубиться в STL и алгоритмы</td>
