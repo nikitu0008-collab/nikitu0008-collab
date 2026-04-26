@@ -1,6 +1,6 @@
 <!-- Анимированный заголовок -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita;Open+to+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita;Open+to+collaboration" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -8,12 +8,12 @@
   👋 <span style="color:#6A5ACD;">Hi, I'm Nikita!</span>
 </h1>
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель (CSS-линия) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> <span>Обо мне</span> | <span>About Me</span>
+## <img src="https://media.tenor.com/images/2e6e3c5e5fa6f6e7c4a6b8c9d0f0a5b7/tenor.gif" width="28"/> <span>Обо мне</span> | <span>About Me</span>
 
 <table style="width:100%; border-collapse: collapse;">
   <tr>
@@ -45,12 +45,12 @@
         <li>📚 Frequently use <strong>metanit.com</strong> for learning C++ and refreshing my knowledge</li>
       </ul>
     </td>
-  </table>
+  </tr>
 </table>
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
 ## 🛠️ <span>Мой стек</span> | <span>My Stack</span>
@@ -69,9 +69,9 @@
 
 > 💡 **Мой Neovim config**: [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — полностью настроенная среда для C++ разработки.
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
 ## 🎓 <span>Образование и сертификаты</span> | <span>Education & Certificates</span>
@@ -100,9 +100,9 @@
 </div>
 </details>
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
 ## 📌 <span>Мои проекты</span> | <span>My Projects</span>
@@ -111,7 +111,7 @@
   <tr style="background-color:#E9ECEF;">
     <th style="width:50%; padding:12px;">🇷🇺 Проект</th>
     <th style="width:50%; padding:12px;">🇬🇧 Project</th>
-  <tr>
+  </tr>
   <tr>
     <td style="vertical-align:top; padding:15px;">
       <b>🎓 CppCraft</b><br>
@@ -151,9 +151,9 @@
   </tr>
 </table>
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
 ## 📊 <span>Немного статистики</span> | <span>GitHub Stats</span>
@@ -167,9 +167,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=6A5ACD&point=FFFFFF" width="95%" alt="Activity Graph"/>
 </div>
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
 ## 🎯 <span>Мои цели на ближайшее время</span> | <span>Current goals</span>
@@ -187,9 +187,9 @@
   </table>
 </div>
 
-<!-- Декоративный разделитель -->
+<!-- Рабочий декоративный разделитель -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solarized-light.png" width="80%">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
 ## 📫 <span>Контакты</span> | <span>Contact Me</span>
