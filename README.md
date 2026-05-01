@@ -39,7 +39,7 @@
         </p>
         <ul align="left">
           <li>🔹 C++20/23, STL, шаблоны, RAII</li>
-          <li>🔹 Многопоточность: мьютексы, атомики, lock-free структуры</li>
+          <li>🔹 Многопоточность: мьютексы, атомики, lock‑free структуры</li>
           <li>🔹 Сетевые протоколы: TCP/UDP, HTTP, WebSockets</li>
           <li>🔹 Работаю в Arch Linux / Windows + WSL2</li>
           <li>🔹 Neovim — моё всё (конфиг ниже)</li>
@@ -120,9 +120,9 @@
 
 ---
 
-## 🧩 Архитектурная схема
+## 🧩 Архитектурный подход
 
-mermaid
+```mermaid
 flowchart LR
     Client[Клиент] -->|REST/WS| Gateway[API Gateway\nC++]
     Gateway --> Service[Сервис логики\nC++/Boost.Asio]
@@ -130,7 +130,7 @@ flowchart LR
     Service --> Cache[(Redis\nв планах)]
 Принципы: низкая задержка, асинхронность, отказоустойчивость, чистота кода.
 
-📊 GitHub активность (работает всегда)
+📊 GitHub активность (все элементы работают)
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%">
 
 
@@ -149,4 +149,4 @@ Docker-образ для мессенджера
 
 📬 Контакты
 <p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
-<p align="center"> <i>💡 Открыт для C++ backend‑контрактов и коллабораций.</i><br> <sub>Последнее обновление: Май 2026</sub> </p>
+<p align="center"> <i>💡 Открыт для C++ backend‑контрактов и коллабораций.</i><br> <sub>Последнее обновление: Май 2026</sub> </p> ```
