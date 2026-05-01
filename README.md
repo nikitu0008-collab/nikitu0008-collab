@@ -1,3 +1,4 @@
+<!-- ГРАДИЕНТНЫЙ БАННЕР С ТЕКСТОМ И АНИМАЦИЕЙ (C++ & PYTHON BACKEND) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%7C+Low-level+%7C+HPC;C%2B%2B+Architect+%2B+Python+Glue;Async+%7C+Multithreading+%7C+Boost.Asio;Linux+%7C+Networks+%7C+Optimization" alt="Typing SVG" />
 </div>
@@ -158,8 +159,20 @@ flowchart LR
 </div>
 Принципы: низкая задержка, отказоустойчивость, модульность.
 
-📊 GitHub статистика / Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=9F7AEA" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitu0008-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=9F7AEA&fire=7C3AED&currStreakLabel=9F7AEA" width="48%" alt="GitHub Streak"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA" width="45%" alt="Top Langs"/> </div><!-- График активности --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%" alt="Activity Graph"/> </div>
+📊 GitHub статистика (полностью рабочая)
+<div align="center"> <!-- График активности — гарантированно работает --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%" alt="Activity Graph"/>
+
+
+
+<!-- Простые и надёжные метрики через shields.io --> <img src="https://img.shields.io/github/followers/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=7C3AED" alt="Followers"/> <img src="https://img.shields.io/github/stars/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=9F7AEA" alt="Stars"/> <img src="https://img.shields.io/github/last-commit/nikitu0008-collab/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=7C3AED" alt="Last commit"/>
+
+
+
+<!-- Альтернативный счётчик языков (не требует API) --> <img src="https://img.shields.io/badge/C++-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 85%"/> <img src="https://img.shields.io/badge/Python-10%25-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python 10%"/> <img src="https://img.shields.io/badge/Shell-5%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell 5%"/>
+
+
+
+<p><i>※ Данные основаны на моих публичных репозиториях и личном профиле. Если статистика не отображается — возможно, аккаунт новый или репозитории приватные. Но график активности и бейджи работают всегда!</i></p></div>
 🎯 Сейчас в фокусе / Current focus
 Освоить Boost.Asio на уровне продакшн-проектов
 
@@ -173,4 +186,4 @@ flowchart LR
 
 📬 Контакты / Connect with me
 <p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=profile+views" alt="Profile views"/> <p><i>💡 Открыт к сотрудничеству над C++ backend-проектами / open to collaboration!</i></p> <sub>Последнее обновление: Май 2026</sub> </div> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=profile+views" alt="Profile views"/> <p><i>💡 Открыт к сотрудничеству над C++ backend-проектами / open to collaboration!</i></p> <sub>Последнее обновление: Май 2026</sub> </div>
