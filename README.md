@@ -1,147 +1,213 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B-Dark.svg">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B-Light.svg" width="80">
-  </picture>
-  &nbsp;&nbsp;+&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" width="60">
-  </picture>
-</p>
-
-<h1 align="center">
-  <code>Backend • Low‑latency • High‑performance</code><br>
-  <span style="color:#7C3AED;">Nikita</span> — C++ Engineer
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=7C3AED&center=true&vCenter=true&width=500&lines=Async+%2B+Multithreading;Boost.Asio+%2B+PostgreSQL;Linux+%2B+Arch+%2B+Neovim;From+Python+to+C%2B%2B+rocket" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/BACKEND-ENGINEER-1e1e2f?style=for-the-badge&logo=server&logoColor=white&labelColor=7C3AED">
-  <img src="https://img.shields.io/badge/C%2B%2B-20%2F23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-</p>
-
----
-
-## 📡 О себе / Whoami
-
+<!-- Анимированный заголовок -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🇷🇺 Русский</h3>
-        <p align="justify">
-          Пишу на C++ backend-сервисы, где важны скорость и контроль над ресурсами. Умею готовить асинхронные и многопоточные решения (Boost.Asio, std::thread). Python использую для прототипов, парсинга и автоматизации — без него никуда.
-        </p>
-        <ul align="left">
-          <li>🔹 C++20/23, STL, шаблоны, RAII</li>
-          <li>🔹 Многопоточность: мьютексы, атомики, lock‑free структуры</li>
-          <li>🔹 Сетевые протоколы: TCP/UDP, HTTP, WebSockets</li>
-          <li>🔹 Работаю в Arch Linux / Windows + WSL2</li>
-          <li>🔹 Neovim — моё всё (конфиг ниже)</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🇬🇧 English</h3>
-        <p align="justify">
-          C++ backend developer focused on high‑performance, low‑latency systems. Async, concurrency, memory management. Python for scripting and prototyping.
-        </p>
-        <ul align="left">
-          <li>🔸 C++20/23, STL, templates, RAII</li>
-          <li>🔸 Multithreading: mutexes, atomics, lock‑free</li>
-          <li>🔸 Networking: TCP/UDP, HTTP, WebSockets</li>
-          <li>🔸 Arch Linux / Windows + WSL2</li>
-          <li>🔸 Neovim — my daily driver</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Backend+Developer;C%2B%2B+Enthusiast;Nikita;Open+to+collaboration" alt="Typing SVG" />
 </div>
 
----
+<h1 align="center">
+  👋 <span style="color:#6A5ACD;">Привет, я Nikita!</span> | 
+  👋 <span style="color:#6A5ACD;">Hi, I'm Nikita!</span>
+</h1>
 
-## 🛠️ Tech Stack (все иконки рабочие)
+<!-- Рабочий декоративный разделитель (CSS-линия) -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
+
+## <img src="https://media.tenor.com/images/2e6e3c5e5fa6f6e7c4a6b8c9d0f0a5b7/tenor.gif" width="28"/> <span>Обо мне</span> | <span>About Me</span>
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; background-color:#F8F9FA; border-radius:12px; padding:15px;">
+      <h3 align="center">🇷🇺 Русский</h3>
+      <p align="justify">
+        Я C++ Backend разработчик, влюблённый в этот язык. Мой путь в IT начался с изучения Python, но со временем я понял, что меня больше привлекает низкоуровневое программирование и контроль над памятью, который даёт C++. Теперь это мой основной язык.
+      </p>
+      <ul>
+        <li>🔭 Сейчас активно изучаю <strong>C++20/23</strong> и многопоточное программирование</li>
+        <li>💻 Обожаю писать разные коды на C++ — от небольших утилит до архитектуры бэкенда</li>
+        <li>🌱 Помогаю начинающим разработчикам осваивать C++</li>
+        <li>⚡ Люблю находить неочевидные баги и оптимизировать код</li>
+        <li>💬 Свободно говорю на русском и английском</li>
+        <li>📚 Часто использую <strong>metanit.com</strong> для изучения C++ и освежения памяти</li>
+      </ul>
+    </td>
+    <td style="width:50%; vertical-align:top; background-color:#F8F9FA; border-radius:12px; padding:15px;">
+      <h3 align="center">🇬🇧 English</h3>
+      <p align="justify">
+        I'm a C++ Backend Developer, deeply in love with the language. My IT journey started with Python, but over time I realized I'm more drawn to low-level programming and the memory control that C++ provides. Now it's my primary language.
+      </p>
+      <ul>
+        <li>🔭 Currently diving deep into <strong>C++20/23</strong> and multithreading</li>
+        <li>💻 I love writing all kinds of C++ code — from small utilities to backend architecture</li>
+        <li>🌱 Helping beginner developers master C++</li>
+        <li>⚡ Love finding non-obvious bugs and optimizing code</li>
+        <li>💬 Fluent in Russian and English</li>
+        <li>📚 Frequently use <strong>metanit.com</strong> for learning C++ and refreshing my knowledge</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Рабочий декоративный разделитель -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
+
+## 🛠️ <span>Мой стек</span> | <span>My Stack</span>
 
 <div align="center">
 
 | Категория | Технологии |
-|:----------|:-----------|
-| **Языки** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Базы данных** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Сборка** | ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white) [![Compile-C-](https://img.shields.io/badge/Compile--C--(мой)-purple?style=for-the-badge&logo=github)](https://github.com/nikitu0008-collab/Compile-C-) |
-| **ОС** | ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| **Редакторы** | [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/nikitu0008-collab/NeoVim-NikiZip) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GHA-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+|----------|-------------|
+| **Языки / Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
-> 🔗 **Neovim config** — [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — LSP (clangd), отладчик, сниппеты.
+> 💡 **Мой Neovim config**: [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — полностью настроенная среда для C++ разработки.
 
----
+<!-- Рабочий декоративный разделитель -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
 
-## 🚀 Мои проекты
+## 🎓 <span>Образование и сертификаты</span> | <span>Education & Certificates</span>
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; margin: 20px 0;">
-    
-    <a href="https://github.com/nikitu0008-collab/CppCraft" style="text-decoration: none;">
-      <div style="background: linear-gradient(145deg, #0c0c1a, #12122a); border-radius: 28px; padding: 22px; width: 280px; border: 1px solid #7C3AED; transition: 0.2s;" onmouseover="this.style.transform='scale(1.02)';this.style.borderColor='#9F7AEA'" onmouseout="this.style.transform='scale(1)';this.style.borderColor='#7C3AED'">
-        <h3>🎓 CppCraft</h3>
-        <p><b>C++17 · STL · CMake</b></p>
-        <p>Шаблоны, алгоритмы, best practices. Учебный полигон для C++ backend.</p>
-        <p><code>→ перейти</code></p>
-      </div>
-    </a>
 
-    <a href="https://github.com/nikitu0008-collab/CollegeMessenger" style="text-decoration: none;">
-      <div style="background: linear-gradient(145deg, #0c0c1a, #12122a); border-radius: 28px; padding: 22px; width: 280px; border: 1px solid #7C3AED; transition: 0.2s;" onmouseover="this.style.transform='scale(1.02)';this.style.borderColor='#9F7AEA'" onmouseout="this.style.transform='scale(1)';this.style.borderColor='#7C3AED'">
-        <h3>💬 College Messenger</h3>
-        <p><b>C++20 · Boost.Asio · PostgreSQL · WebSockets</b></p>
-        <p>Асинхронный сервер чата: комнаты, история, авторизация. В разработке.</p>
-        <p><code>🚧 in progress</code></p>
-      </div>
-    </a>
+| 🏫 | Описание |
+|----|----------|
+| 🎓 **IT Top College** | 🎯 Студент 2 курса. Углублённое изучение программирования и информационных технологий. |
+| 🐍 **КОД Будущего (Python)** | Прошёл курс по Python. Получил базовые навыки программирования, которые помогли в дальнейшем освоении C++. *(Сертификат предоставляется по запросу)* |
+| 📚 **Яндекс Практикум** | Изучал бесплатные темы и материалы по программированию для саморазвития. |
+| 🌐 **Metanit.com** | Постоянный ресурс для изучения C++ и других технологий. Часто обращаюсь, чтобы освежить знания или изучить что-то новое. |
 
-    <a href="https://github.com/nikitu0008-collab/Python-chat-client" style="text-decoration: none;">
-      <div style="background: linear-gradient(145deg, #0c0c1a, #12122a); border-radius: 28px; padding: 22px; width: 280px; border: 1px solid #7C3AED; transition: 0.2s;" onmouseover="this.style.transform='scale(1.02)';this.style.borderColor='#9F7AEA'" onmouseout="this.style.transform='scale(1)';this.style.borderColor='#7C3AED'">
-        <h3>🐍 Python Chat Client</h3>
-        <p><b>Python · sockets · threading</b></p>
-        <p>Консольный TCP-клиент для чата. Демонстрация сетевого программирования на Python.</p>
-        <p><code>→ перейти</code></p>
-      </div>
-    </a>
-    
-  </div>
 </div>
 
----
+<details>
+<summary><b>📜 Посмотреть сертификаты / View certificates</b></summary>
+<br>
+<p align="center">
+  <i>Сертификаты доступны по запросу. Свяжитесь со мной, и я предоставлю подтверждающие документы.</i><br>
+  <i>Certificates are available upon request. Contact me and I'll provide the documents.</i>
+</p>
+<div align="center">
+  <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
+</details>
 
-## 🧩 Архитектурный подход
+<!-- Рабочий декоративный разделитель -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
 
-```mermaid
-flowchart LR
-    Client[Клиент] -->|REST/WS| Gateway[API Gateway\nC++]
-    Gateway --> Service[Сервис логики\nC++/Boost.Asio]
-    Service --> DB[(PostgreSQL)]
-    Service --> Cache[(Redis\nв планах)]
-Принципы: низкая задержка, асинхронность, отказоустойчивость, чистота кода.
+## 📌 <span>Мои проекты</span> | <span>My Projects</span>
 
-📊 GitHub активность (все элементы работают)
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%"> </div><p align="center"> <img src="https://img.shields.io/github/followers/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=7C3AED"> <img src="https://img.shields.io/github/stars/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=9F7AEA"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=views"> </p>
-🎯 Текущие цели
-Boost.Asio — продакшн-уровень
+<table style="width:100%; border-collapse: collapse;">
+  <tr style="background-color:#E9ECEF;">
+    <th style="width:50%; padding:12px;">🇷🇺 Проект</th>
+    <th style="width:50%; padding:12px;">🇬🇧 Project</th>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; padding:15px;">
+      <b>🎓 CppCraft</b><br>
+      <i>Стек: C++</i><br>
+      Образовательный проект, который помогает начинающим программистам и студентам быстро создать базовую структуру кода на C++. Содержит шаблоны, примеры и лучшие практики для старта.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Перейти в репозиторий</a>
+    </td>
+    <td style="vertical-align:top; padding:15px;">
+      <b>🎓 CppCraft</b><br>
+      <i>Stack: C++</i><br>
+      An educational project that helps beginner programmers and students quickly create a basic C++ code structure. Contains templates, examples, and best practices to get started.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Go to repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; padding:15px;">
+      <b>💬 Мессенджер для колледжа</b><br>
+      <i>Стек: C++ (Boost.Asio), PostgreSQL</i><br>
+      Асинхронный сервер мессенджера на базе <strong>Boost.Asio</strong>. Позволяет обмениваться сообщениями в реальном времени. В разработке: авторизация, комнаты, история сообщений.
+      <br>
+      🚧 <i>Проект в активной разработке</i>
+    </td>
+    <td style="vertical-align:top; padding:15px;">
+      <b>💬 College Messenger</b><br>
+      <i>Stack: C++ (Boost.Asio), PostgreSQL</i><br>
+      An asynchronous messenger server built with <strong>Boost.Asio</strong>. Enables real-time messaging. In progress: authentication, rooms, message history.
+      <br>
+      🚧 <i>Under active development</i>
+     </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding:15px;">
+      <i>✨ Здесь скоро появятся новые проекты ✨</i>
+    </td>
+  </tr>
+</table>
 
-Свой EventLoop (Reactor)
+<!-- Рабочий декоративный разделитель -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
 
-Интеграция gRPC в C++
+## 📊 <span>Немного статистики</span> | <span>GitHub Stats</span>
 
-Изучение C++23 корутин
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED" width="55%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
+</div>
 
-Docker-образ для мессенджера
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=6A5ACD&point=FFFFFF" width="95%" alt="Activity Graph"/>
+</div>
 
-📬 Контакты
-<p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p><p align="center"> <i>💡 Открыт для C++ backend‑контрактов и коллабораций.</i><br> <sub>Последнее обновление: Май 2026</sub> </p> ```
+<!-- Рабочий декоративный разделитель -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
+
+## 🎯 <span>Мои цели на ближайшее время</span> | <span>Current goals</span>
+
+<div align="center">
+  <table style="width:80%;">
+    <tr>
+      <td>✅ Изучить асинхронное программирование в C++ (Boost.Asio)</td>
+      <td>🔜 Завершить MVP мессенджера для колледжа</td>
+    </tr>
+    <tr>
+      <td>✅ Углубиться в STL и алгоритмы</td>
+      <td>🔜 Внести вклад в open-source проект на C++</td>
+    </tr>
+  </table>
+</div>
+
+<!-- Рабочий декоративный разделитель -->
+<div align="center">
+  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+</div>
+
+## 📫 <span>Контакты</span> | <span>Contact Me</span>
+
+<div align="center">
+  
+| Платформа | Ссылка |
+|----------|--------|
+| 📱 **Telegram** | [@NikiZ1p](https://t.me/NikiZ1p) |
+| 🖥️ **GitHub** | [nikitu0008-collab](https://github.com/nikitu0008-collab) |
+| 📧 **Gmail** | [nikitu0008@gmail.com](mailto:nikitu0008@gmail.com) |
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=6A5ACD&label=Profile+Views" alt="Profile views"/>
+  
+  ### ⭐️ Открыт к предложениям и сотрудничеству! | ⭐️ Open to opportunities and collaboration!
+  
+  <sub>Последнее обновление: Апрель 2026</sub>
+</div>
