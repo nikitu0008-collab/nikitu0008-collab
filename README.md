@@ -150,7 +150,7 @@
 
 <div align="center">
   
-```mermaid
+mermaid
 flowchart LR
     Client[Клиент] --> API[API Gateway<br>REST/WebSocket]
     API --> Service[Сервис на C++<br>Многопоточный]
@@ -173,4 +173,4 @@ flowchart LR
 
 📬 Контакты / Connect with me
 <p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=profile+views" alt="Profile views"/> <p><i>💡 Открыт к сотрудничеству над C++ backend-проектами / open to collaboration!</i></p> <sub>Последнее обновление: Май 2026</sub> </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=profile+views" alt="Profile views"/> <p><i>💡 Открыт к сотрудничеству над C++ backend-проектами / open to collaboration!</i></p> <sub>Последнее обновление: Май 2026</sub> </div> 
