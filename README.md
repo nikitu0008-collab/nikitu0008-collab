@@ -131,11 +131,7 @@ flowchart LR
 Принципы: низкая задержка, асинхронность, отказоустойчивость, чистота кода.
 
 📊 GitHub активность (все элементы работают)
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%">
-
-
-
-<img src="https://img.shields.io/github/followers/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=7C3AED"> <img src="https://img.shields.io/github/stars/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=9F7AEA"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=views"> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%"> </div><p align="center"> <img src="https://img.shields.io/github/followers/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=7C3AED"> <img src="https://img.shields.io/github/stars/nikitu0008-collab?style=for-the-badge&logo=github&labelColor=0D1117&color=9F7AEA"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=views"> </p>
 🎯 Текущие цели
 Boost.Asio — продакшн-уровень
 
@@ -148,5 +144,4 @@ Boost.Asio — продакшн-уровень
 Docker-образ для мессенджера
 
 📬 Контакты
-<p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
-<p align="center"> <i>💡 Открыт для C++ backend‑контрактов и коллабораций.</i><br> <sub>Последнее обновление: Май 2026</sub> </p> ```
+<p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p><p align="center"> <i>💡 Открыт для C++ backend‑контрактов и коллабораций.</i><br> <sub>Последнее обновление: Май 2026</sub> </p> ```
