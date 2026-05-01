@@ -1,4 +1,3 @@
-<!-- ГРАДИЕНТНЫЙ БАННЕР С ТЕКСТОМ И АНИМАЦИЕЙ (C++ & PYTHON BACKEND) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Backend+%7C+Low-level+%7C+HPC;C%2B%2B+Architect+%2B+Python+Glue;Async+%7C+Multithreading+%7C+Boost.Asio;Linux+%7C+Networks+%7C+Optimization" alt="Typing SVG" />
 </div>
@@ -8,7 +7,7 @@
   <a href="https://isocpp.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B-Dark.svg">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B-Light.svg" height="55" alt="C++"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C%2B%2B-Light.svg" height="65" alt="C++"/>
     </picture>
   </a>
   <span> <strong>+</strong> </span>
@@ -83,18 +82,15 @@
 | Область | Технологии |
 |:--------|:-----------|
 | **Языки** | ![C++](https://img.shields.io/badge/C++20/23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.10+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Парадигмы / средства** | Многопоточность (std::thread, jthread), асинхронность (Boost.Asio, futures), ООП, шаблоны, RAII, move‑семантика |
-| **Базы данных** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) (libpq, sqlite3) |
-| **Сеть и протоколы** | TCP/UDP, HTTP/REST (Crow, cpp-httplib), WebSockets (Boost.Beast), gRPC (в планах) |
-| **Инструменты сборки** | ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white) Make, vcpkg, Conan |
-| **Контейнеризация** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) docker-compose |
-| **ОС / окружение** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (Ubuntu, Arch) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) WSL2 |
-| **IDE / редакторы** | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) (мой конфиг — IDE полного цикла), ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| **DevOps** | Git (GitHub/GitLab CI), Bash, Docker, базовый Ansible |
+| **Базы данных** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Инструменты сборки** | ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white) [![Compile-C-](https://img.shields.io/badge/Compile--C--(мой_сборщик)-purple?style=for-the-badge&logo=github)](https://github.com/nikitu0008-collab/Compile-C-) |
+| **ОС / окружение** | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| **IDE / редакторы** | [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/nikitu0008-collab/NeoVim-NikiZip) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
-> **Neovim config**: [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — LSP (clangd), отладчик, сниппеты, автодополнение для C++ и Python.
+> **Neovim config**: [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — моя IDE полного цикла для C++ и Python с LSP, отладчиком и сниппетами.
 
 ---
 
@@ -135,13 +131,13 @@
       🚧 <i>активная разработка</i>
   </div>
   
-  <!-- Парсер на Python (пример вспомогательного) -->
+  <!-- Python Chat Client -->
   <div style="flex: 1; min-width: 280px; background: linear-gradient(145deg, #0c0c1a, #12122a); border-radius: 28px; padding: 22px; border: 1px solid rgba(124,58,237,0.5); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-6px)';this.style.borderColor='#9F7AEA'" onmouseout="this.style.transform='translateY(0)';this.style.borderColor='rgba(124,58,237,0.5)'">
-      <h3>🕷️ DocParser (Python)</h3>
-      <b>Stack:</b> Python, requests, BeautifulSoup, lxml 📄<br>
-      Парсер документации и учебных материалов для автоматической генерации шпаргалок и проверки ссылок. Пример использования Python в реальной задаче.<br>
-      <i>Documentation parser for generating cheatsheets and link checking.</i><br>
-      <a href="https://github.com/nikitu0008-collab/DocParser">🔗 Скоро / Soon →</a>
+      <h3>🐍 Python Chat Client</h3>
+      <b>Stack:</b> Python, sockets, threading 💬<br>
+      Консольный TCP-клиент для чата. Многопоточность: приём и отправка сообщений без блокировок. Проект для демонстрации сетевого программирования на Python.<br>
+      <i>Console TCP chat client. Multithreaded receive/send. A networking demo in Python.</i><br>
+      <a href="https://github.com/nikitu0008-collab/Python-chat-client">🔗 Перейти →</a>
   </div>
   
 </div>
@@ -152,13 +148,15 @@
 
 ## 🧠 Архитектурный подход / Backend design
 
+<div align="center">
+  
+```mermaid
 flowchart LR
-    Client[Клиент / Client] --> API[API Gateway\n(REST/WS)]
-    API --> Service[Сервис на C++\nмногопоточный]
-    Service --> Cache[(Redis\noптимизация)]
+    Client[Клиент] --> API[API Gateway<br>REST/WebSocket]
+    API --> Service[Сервис на C++<br>Многопоточный]
     Service --> DB[(PostgreSQL)]
-    Service --> Queue[RabbitMQ/Kafka\nв планах]
-Принципы: низкая задержка, отказоустойчивость, чистая архитектура модулей.
+</div>
+Принципы: низкая задержка, отказоустойчивость, модульность.
 
 📊 GitHub статистика / Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=7C3AED&title_color=9F7AEA" width="48%" alt="GitHub Stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikitu0008-collab&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=9F7AEA&fire=7C3AED&currStreakLabel=9F7AEA" width="48%" alt="GitHub Streak"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA" width="45%" alt="Top Langs"/> </div><!-- График активности --><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=9F7AEA&point=FFFFFF" width="95%" alt="Activity Graph"/> </div>
@@ -175,4 +173,4 @@ flowchart LR
 
 📬 Контакты / Connect with me
 <p align="center"> <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a> <a href="mailto:nikitu0008@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/nikitu0008-collab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=profile+views" alt="Profile views"/> <p><i>💡 Открыт к сотрудничеству над C++ backend-проектами / open to collaboration!</i></p> <sub>Последнее обновление: Апрель 2026</sub> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=nikitu0008-collab&style=flat-square&color=9F7AEA&label=profile+views" alt="Profile views"/> <p><i>💡 Открыт к сотрудничеству над C++ backend-проектами / open to collaboration!</i></p> <sub>Последнее обновление: Май 2026</sub> </div> ```
