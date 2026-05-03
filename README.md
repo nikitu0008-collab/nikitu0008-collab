@@ -160,7 +160,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED" width="55%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10&hide_title=true&locale=ru" width="40%" alt="Top Languages"/>
 </div>
 
 <div align="center">
