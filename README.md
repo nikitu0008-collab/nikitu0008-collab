@@ -156,14 +156,14 @@
   <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
 </div>
 
-## 📊 <span>Немного статистики</span> | <span>GitHub Stats</span>
+## 📊 Немного статистики | GitHub Stats
 
 <div align="center">
-  <!-- Общая статистика (стабильный сервис) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED&include_all_commits=true&cache_seconds=1800" width="55%" alt="GitHub Stats"/>
+  <!-- Общая статистика -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED&include_all_commits=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
   
-  <!-- Языки (надёжный сервис, обновляется автоматически) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitu0008-collab&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
+  <!-- Языки (сервис github-profile-summary-cards) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitu0008-collab&theme=tokyonight" width="49%" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -173,7 +173,7 @@
 
 <!-- Декоративный разделитель -->
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
 ## 🎯 <span>Мои цели на ближайшее время</span> | <span>Current goals</span>
