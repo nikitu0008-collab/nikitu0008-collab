@@ -159,15 +159,15 @@
 ## 📊 Немного статистики | GitHub Stats
 
 <div align="center">
-  <!-- Общая статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED&include_all_commits=true&cache_seconds=1800" width="49%" alt="GitHub Stats"/>
-  
-  <!-- Языки (сервис github-profile-summary-cards) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikitu0008-collab&theme=tokyonight" width="49%" alt="Top Languages"/>
+  <!-- 1. Общая статистика от gh-stats.com (просто и надежно) -->
+  <img src="https://gh-stats.com/api?username=nikitu0008-collab&show_icons=true&theme=tokyonight&hide_border=true&locale=ru&hide_title=true&bg_color=0D1117&icon_color=7C3AED&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+
+  <!-- 2. Карточка языков от github-readme-stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitu0008-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" width="49%" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <!-- График активности -->
+  <!-- 3. График активности (оставляем как есть, он работает) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikitu0008-collab&theme=react-dark&bg_color=0D1117&hide_border=true&color=7C3AED&line=6A5ACD&point=FFFFFF" width="95%" alt="Activity Graph"/>
 </div>
 
