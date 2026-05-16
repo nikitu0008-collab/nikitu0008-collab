@@ -9,17 +9,17 @@
 </h1>
 
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
-## <img src="https://media.tenor.com/images/2e6e3c5e5fa6f6e7c4a6b8c9d0f0a5b7/tenor.gif" width="28"/> <span>Обо мне</span> | <span>About Me</span>
+## 📖 Обо мне | About Me
 
-<table style="width:100%; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="width:50%; vertical-align:top; background-color:#F8F9FA; border-radius:12px; padding:15px;">
+    <td width="50%" valign="top">
       <h3 align="center">🇷🇺 Русский</h3>
       <p align="justify">
-        Я C++ Backend разработчик, влюблённый в этот язык. Мой путь в IT начался с Python, но со временем я понял, что меня больше привлекает низкоуровневое программирование и контроль над памятью. Сейчас C++ — мой основной язык, а Python использую для скриптов, утилит и автоматизации.
+        Я C++ backend-разработчик, влюблённый в этот язык. Мой путь в IT начался с Python, но со временем я понял, что меня больше привлекает низкоуровневое программирование и контроль над памятью. Сейчас C++ — мой основной язык, а Python использую для скриптов, утилит и автоматизации.
       </p>
       <ul>
         <li>🔭 Активно изучаю <strong>C++20/23</strong> (coroutines, concepts, ranges) и многопоточное программирование</li>
@@ -31,14 +31,14 @@
         <li>📚 Часто использую <strong>metanit.com</strong>, cppreference и Boost документацию</li>
       </ul>
     </td>
-    <td style="width:50%; vertical-align:top; background-color:#F8F9FA; border-radius:12px; padding:15px;">
+    <td width="50%" valign="top">
       <h3 align="center">🇬🇧 English</h3>
       <p align="justify">
-        I'm a C++ Backend Developer, deeply in love with the language. My IT journey started with Python, but over time I realized I'm more drawn to low-level programming and memory control. Now C++ is my primary language, while Python is used for scripting, tooling, and automation.
+        I'm a C++ backend developer, deeply passionate about the language. My IT journey started with Python, but over time I realized I'm more drawn to low-level programming and memory control. Now C++ is my primary language, while Python is used for scripting, tooling, and automation.
       </p>
       <ul>
         <li>🔭 Diving deep into <strong>C++20/23</strong> (coroutines, concepts, ranges) and multithreading</li>
-        <li>💻 I love exploring asynchrony (Boost.Asio), memory management, and optimizations</li>
+        <li>💻 I love exploring asynchronous programming (Boost.Asio), memory management, and optimizations</li>
         <li>🌱 Helping beginners master C++</li>
         <li>🐍 Python for log parsing, code generation (Jinja2), integration tests (pytest)</li>
         <li>⚡ Finding non-obvious bugs and optimizing code</li>
@@ -50,31 +50,30 @@
 </table>
 
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
-## 🛠️ <span>Мой стек</span> | <span>My Stack</span>
+## 🛠️ Мой стек | My Stack
 
 <div align="center">
 
 | Категория | Технологии |
 |----------|-------------|
-| **Языки / Languages** | ![C++](https://img.shields.io/badge/c++-17/20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Языки / Languages** | ![C++](https://img.shields.io/badge/C++-17/20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **C++ библиотеки** | Boost.Asio, STL, libpqxx, spdlog, GTest |
 | **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Conan](https://img.shields.io/badge/Conan-6699CC?style=for-the-badge&logo=conan&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| **Базы данных / Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| **Инструменты / Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white) ![Conan](https://img.shields.io/badge/Conan-6699CC?style=for-the-badge&logo=conan&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| **Базы данных / Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
 
 </div>
 
 > 💡 **Мой Neovim config**: [github.com/nikitu0008-collab/NeoVim-NikiZip](https://github.com/nikitu0008-collab/NeoVim-NikiZip) — полностью настроенная среда для C++ разработки.
 
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
-## 🎓 <span>Образование и сертификаты</span> | <span>Education & Certificates</span>
+## 🎓 Образование и сертификаты | Education & Certificates
 
 <div align="center">
 
@@ -101,25 +100,25 @@
 </details>
 
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
-## 📌 <span>Мои проекты</span> | <span>My Projects</span>
+## 📌 Мои проекты | My Projects
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr style="background-color:#E9ECEF;">
-    <th style="width:50%; padding:12px;">🇷🇺 Проект</th>
-    <th style="width:50%; padding:12px;">🇬🇧 Project</th>
+<table>
+  <tr>
+    <th width="50%">🇷🇺 Проект</th>
+    <th width="50%">🇬🇧 Project</th>
   </tr>
   <tr>
-    <td style="vertical-align:top; padding:15px;">
+    <td valign="top">
       <b>🎓 CppCraft</b><br>
       <i>Стек: C++17/20, CMake, spdlog</i><br>
-      Генератор скелета C++ сервера: шаблоны, примеры, лучшие практики. Включает CMake + logging + конфиги + пул потоков. Экономит время на старте.
+      Генератор скелета C++ сервера: шаблоны, примеры, лучшие практики. Включает CMake + логирование + конфиги + пул потоков. Экономит время на старте.
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Перейти в репозиторий</a>
     </td>
-    <td style="vertical-align:top; padding:15px;">
+    <td valign="top">
       <b>🎓 CppCraft</b><br>
       <i>Stack: C++17/20, CMake, spdlog</i><br>
       A C++ server skeleton generator: templates, examples, best practices. Includes CMake + logging + configs + thread pool. Saves time at start.
@@ -128,14 +127,14 @@
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; padding:15px;">
+    <td valign="top">
       <b>💬 Мессенджер для колледжа</b><br>
       <i>Стек: C++20, Boost.Asio, PostgreSQL (libpqxx)</i><br>
       Асинхронный TCP‑сервер на io_context + пул потоков. Реализовано: авторизация, комнаты, история сообщений в БД. Планируется поддержка 1000+ клиентов.
       <br>
       🚧 <i>В активной разработке</i>
     </td>
-    <td style="vertical-align:top; padding:15px;">
+    <td valign="top">
       <b>💬 College Messenger</b><br>
       <i>Stack: C++20, Boost.Asio, PostgreSQL (libpqxx)</i><br>
       Asynchronous TCP server with io_context + thread pool. Implemented: authentication, rooms, message history in DB. Planning to support 1000+ clients.
@@ -144,21 +143,21 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding:15px;">
+    <td colspan="2" align="center">
       <b>🐍 Python утилиты | Python utilities</b><br>
       <i>argparse, subprocess, pytest, Jinja2, pandas</i><br>
       Интеграционные тесты для мессенджера, анализатор логов (процентили задержек), генератор кода для кастомного протокола.
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="padding:15px;">
+    <td colspan="2" align="center">
       <i>✨ Здесь скоро появятся новые проекты ✨</i>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
 ## 📊 Немного статистики | GitHub Stats
@@ -176,10 +175,10 @@
   <hr width="80%">
 </div>
 
-## 🎯 <span>Мои цели на ближайшее время</span> | <span>Current goals</span>
+## 🎯 Мои цели на ближайшее время | Current goals
 
 <div align="center">
-  <table style="width:80%;">
+  <table width="80%">
     <tr>
       <td>✅ Завершить MVP мессенджера → выложить демо</td>
       <td>🔜 Написать простой HTTP‑сервер на C++20</td>
@@ -196,10 +195,10 @@
 </div>
 
 <div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #7C3AED, #6A5ACD, transparent); width: 80%; margin: 20px auto;">
+  <hr width="80%">
 </div>
 
-## 📫 <span>Контакты</span> | <span>Contact Me</span>
+## 📫 Контакты | Contact Me
 
 <div align="center">
   
