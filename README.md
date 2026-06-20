@@ -19,29 +19,29 @@
     <td width="50%" valign="top">
       <h3 align="center">🇷🇺 Русский</h3>
       <p align="justify">
-        Я C++ backend-разработчик, влюблённый в этот язык. Мой путь в IT начался с Python, но со временем я понял, что меня больше привлекает низкоуровневое программирование и контроль над памятью. Сейчас C++ — мой основной язык, а Python использую для скриптов, утилит и автоматизации.
+        Backend-разработчик на C++. Начинал с Python, но со временем увлёкся низкоуровневым программированием и управлением памятью. Сегодня C++ — мой основной инструмент, Python же использую для вспомогательных задач: скриптов, утилит, тестирования и кодогенерации.
       </p>
       <ul>
-        <li>🔭 Активно изучаю <strong>C++20/23</strong> (coroutines, concepts, ranges) и многопоточное программирование</li>
-        <li>💻 Люблю разбираться в асинхронности (Boost.Asio), управлении памятью и оптимизациях</li>
-        <li>🌱 Помогаю начинающим разработчикам осваивать C++</li>
-        <li>🐍 Пишу на Python: парсинг логов, кодогенерация (Jinja2), интеграционные тесты (pytest)</li>
-        <li>⚡ Нахожу неочевидные баги и оптимизирую код</li>
-        <li>💬 Свободно говорю на русском и английском</li>
-        <li>📚 Часто использую <strong>metanit.com</strong>, cppreference и Boost документацию</li>
+        <li>🔭 Углубляюсь в <strong>C++20/23</strong>: корутины, концепты, ranges, многопоточность</li>
+        <li>💻 Интересуюсь асинхронностью (Boost.Asio), оптимизациями и архитектурой высоконагруженных систем</li>
+        <li>🌱 Помогаю новичкам осваивать C++</li>
+        <li>🐍 Python для парсинга логов, кодогенерации (Jinja2), интеграционных тестов (pytest)</li>
+        <li>⚡ Нахожу скрытые баги и умею профилировать код</li>
+        <li>💬 Свободно владею русским и английским</li>
+        <li>📚 Постоянно читаю <strong>metanit.com</strong>, cppreference и документацию Boost</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🇬🇧 English</h3>
       <p align="justify">
-        I'm a C++ backend developer, deeply passionate about the language. My IT journey started with Python, but over time I realized I'm more drawn to low-level programming and memory control. Now C++ is my primary language, while Python is used for scripting, tooling, and automation.
+        Backend developer with a strong passion for C++. My journey started with Python, but I soon realized I enjoy low‑level programming and memory control more. Now C++ is my primary language, while Python serves for scripting, tooling, and automation.
       </p>
       <ul>
-        <li>🔭 Diving deep into <strong>C++20/23</strong> (coroutines, concepts, ranges) and multithreading</li>
-        <li>💻 I love exploring asynchronous programming (Boost.Asio), memory management, and optimizations</li>
-        <li>🌱 Helping beginners master C++</li>
-        <li>🐍 Python for log parsing, code generation (Jinja2), integration tests (pytest)</li>
-        <li>⚡ Finding non-obvious bugs and optimizing code</li>
+        <li>🔭 Diving deep into <strong>C++20/23</strong>: coroutines, concepts, ranges, multithreading</li>
+        <li>💻 Exploring asynchronous programming (Boost.Asio), performance optimization, and system design</li>
+        <li>🌱 Mentoring beginners in C++</li>
+        <li>🐍 Python for log analysis, code generation (Jinja2), integration tests (pytest)</li>
+        <li>⚡ Good at spotting subtle bugs and profiling</li>
         <li>💬 Fluent in Russian and English</li>
         <li>📚 Frequent reader of <strong>metanit.com</strong>, cppreference, and Boost docs</li>
       </ul>
@@ -79,10 +79,10 @@
 
 | 🏫 | Описание |
 |----|----------|
-| 🎓 **IT Top College** | 🎯 Студент 2 курса. Углублённое изучение программирования и информационных технологий. |
-| 🐍 **КОД Будущего (Python)** | Прошёл курс по Python. Получил базовые навыки программирования, которые помогли в дальнейшем освоении C++. *(Сертификат предоставляется по запросу)* |
-| 📚 **Яндекс Практикум** | Изучал бесплатные темы и материалы по программированию для саморазвития. |
-| 🌐 **Metanit.com** | Постоянный ресурс для изучения C++ и других технологий. |
+| 🎓 **IT Top College** | 🎯 Студент 2 курса. Углублённое изучение программирования и ИТ. |
+| 🐍 **КОД Будущего (Python)** | Базовый курс по Python, который помог в дальнейшем изучении C++. *(Сертификат по запросу)* |
+| 📚 **Яндекс Практикум** | Самостоятельное изучение материалов по программированию. |
+| 🌐 **Metanit.com** | Постоянный ресурс по C++ и другим технологиям. |
 
 </div>
 
@@ -90,8 +90,8 @@
 <summary><b>📜 Посмотреть сертификаты / View certificates</b></summary>
 <br>
 <p align="center">
-  <i>Сертификаты доступны по запросу. Свяжитесь со мной, и я предоставлю подтверждающие документы.</i><br>
-  <i>Certificates are available upon request. Contact me and I'll provide the documents.</i>
+  <i>Сертификаты доступны по запросу. Свяжитесь со мной.</i><br>
+  <i>Certificates are available upon request. Contact me.</i>
 </p>
 <div align="center">
   <a href="https://t.me/NikiZ1p"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -114,30 +114,30 @@
     <td valign="top">
       <b>🎓 CppCraft</b><br>
       <i>Стек: C++17/20, CMake, spdlog</i><br>
-      Генератор скелета C++ сервера: шаблоны, примеры, лучшие практики. Включает CMake + логирование + конфиги + пул потоков. Экономит время на старте.
+      Генератор скелета C++ сервера: готовые шаблоны, примеры, best practices. Включает CMake, логирование, конфиги и пул потоков. Ускоряет старт новых проектов.
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Перейти в репозиторий</a>
     </td>
     <td valign="top">
       <b>🎓 CppCraft</b><br>
       <i>Stack: C++17/20, CMake, spdlog</i><br>
-      A C++ server skeleton generator: templates, examples, best practices. Includes CMake + logging + configs + thread pool. Saves time at start.
+      A C++ server skeleton generator: templates, examples, best practices. Includes CMake, logging, configs, thread pool. Speeds up project setup.
       <br>
       <a href="https://github.com/nikitu0008-collab/CppCraft">🔗 Go to repository</a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <b>💬 Мессенджер для колледжа</b><br>
+      <b>💬 College Messenger</b><br>
       <i>Стек: C++20, Boost.Asio, PostgreSQL (libpqxx)</i><br>
-      Асинхронный TCP‑сервер на io_context + пул потоков. Реализовано: авторизация, комнаты, история сообщений в БД. Планируется поддержка 1000+ клиентов.
+      Асинхронный TCP‑сервер с io_context и пулом потоков. Реализованы авторизация, комнаты, история сообщений в БД. В планах — поддержка 1000+ клиентов.
       <br>
       🚧 <i>В активной разработке</i>
     </td>
     <td valign="top">
       <b>💬 College Messenger</b><br>
       <i>Stack: C++20, Boost.Asio, PostgreSQL (libpqxx)</i><br>
-      Asynchronous TCP server with io_context + thread pool. Implemented: authentication, rooms, message history in DB. Planning to support 1000+ clients.
+      Asynchronous TCP server with io_context and thread pool. Features: authentication, rooms, message history in DB. Planning 1000+ concurrent clients.
       <br>
       🚧 <i>Under active development</i>
     </td>
@@ -151,7 +151,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <i>✨ Здесь скоро появятся новые проекты ✨</i>
+      <i>✨ Новые проекты скоро появятся ✨</i>
     </td>
   </tr>
 </table>
@@ -185,7 +185,7 @@
     </tr>
     <tr>
       <td>✅ Изучить асинхронное программирование (Boost.Asio)</td>
-      <td>🔜 Внести PR в open‑source (C++ или Python утилита)</td>
+      <td>🔜 Внести PR в open‑source (C++ или Python)</td>
     </tr>
     <tr>
       <td>✅ Углубиться в STL, алгоритмы и конкурентность</td>
