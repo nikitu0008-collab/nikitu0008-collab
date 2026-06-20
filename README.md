@@ -23,12 +23,11 @@
       </p>
       <ul>
         <li>🔭 Углубляюсь в <strong>C++20/23</strong>: корутины, концепты, ranges, многопоточность</li>
-        <li>💻 Интересуюсь асинхронностью (Boost.Asio), оптимизациями и архитектурой высоконагруженных систем</li>
-        <li>🌱 Помогаю новичкам осваивать C++</li>
+        <li>💻 Разрабатываю бэкенд-сервисы и вникаю в архитектуру высоконагруженных систем</li>
         <li>🐍 Python для парсинга логов, кодогенерации (Jinja2), интеграционных тестов (pytest)</li>
-        <li>⚡ Нахожу скрытые баги и умею профилировать код</li>
         <li>💬 Свободно владею русским и английским</li>
         <li>📚 Постоянно читаю <strong>metanit.com</strong>, cppreference и документацию Boost</li>
+        <li>🦀 В планах — основательно изучить <strong>Rust</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -38,12 +37,11 @@
       </p>
       <ul>
         <li>🔭 Diving deep into <strong>C++20/23</strong>: coroutines, concepts, ranges, multithreading</li>
-        <li>💻 Exploring asynchronous programming (Boost.Asio), performance optimization, and system design</li>
-        <li>🌱 Mentoring beginners in C++</li>
+        <li>💻 Building backend services and exploring high‑load system architecture</li>
         <li>🐍 Python for log analysis, code generation (Jinja2), integration tests (pytest)</li>
-        <li>⚡ Good at spotting subtle bugs and profiling</li>
         <li>💬 Fluent in Russian and English</li>
         <li>📚 Frequent reader of <strong>metanit.com</strong>, cppreference, and Boost docs</li>
+        <li>🦀 Planning to dive deep into <strong>Rust</strong></li>
       </ul>
     </td>
   </tr>
@@ -59,8 +57,8 @@
 
 | Категория | Технологии |
 |----------|-------------|
-| **Языки / Languages** | ![C++](https://img.shields.io/badge/C++-17/20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **C++ библиотеки** | Boost.Asio, STL, libpqxx, spdlog, GTest |
+| **Языки / Languages** | ![C++](https://img.shields.io/badge/C++-17/20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) *(в будущем / planned)* |
+| **C++ библиотеки** | Boost, libcurl |
 | **ОС / OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 | **Инструменты / Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white) ![Conan](https://img.shields.io/badge/Conan-6699CC?style=for-the-badge&logo=conan&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 | **Базы данных / Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
@@ -143,6 +141,22 @@
     </td>
   </tr>
   <tr>
+    <td valign="top">
+      <b>⚙️ C++ Class Generator</b><br>
+      <i>Стек: C++23, CMake</i><br>
+      Automated Modern C++ Code Creator. Генерирует готовые C++ классы с геттерами, сеттерами, `[[nodiscard]]`, статическими членами, наследованием и умными указателями — за секунды.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/HppCppCreating">🔗 Перейти в репозиторий</a>
+    </td>
+    <td valign="top">
+      <b>⚙️ C++ Class Generator</b><br>
+      <i>Stack: C++23, CMake</i><br>
+      Automated Modern C++ Code Creator. Generates complete, production‑ready C++ classes with getters, setters, `[[nodiscard]]`, static members, inheritance, and smart pointers — in seconds.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/HppCppCreating">🔗 Go to repository</a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
       <b>🐍 Python утилиты | Python utilities</b><br>
       <i>argparse, subprocess, pytest, Jinja2, pandas</i><br>
@@ -190,6 +204,10 @@
     <tr>
       <td>✅ Углубиться в STL, алгоритмы и конкурентность</td>
       <td>🔜 Освоить gRPC + protobuf</td>
+    </tr>
+    <tr>
+      <td>🦀 Начать изучать Rust</td>
+      <td></td>
     </tr>
   </table>
 </div>
