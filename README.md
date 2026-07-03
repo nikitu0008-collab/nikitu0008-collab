@@ -127,15 +127,15 @@
   <tr>
     <td valign="top">
       <b>💬 College Messenger</b><br>
-      <i>Стек: C++20, Boost.Asio, PostgreSQL (libpqxx)</i><br>
-      Асинхронный TCP‑сервер с io_context и пулом потоков. Реализованы авторизация, комнаты, история сообщений в БД. В планах — поддержка 1000+ клиентов.
+      <i>Стек: C++23, Boost.Beast, PostgreSQL(libpqxx)</i><br>
+      Синхронный TCP‑сервер с io_context и пулом потоков.
       <br>
       <a href="https://github.com/nikitu0008-collab/Messenger-From-C-Boost-Beast">🔗 Перейти в репозиторий</a>
     </td>
     <td valign="top">
       <b>💬 College Messenger</b><br>
-      <i>Stack: C++20, Boost.Asio, PostgreSQL (libpqxx)</i><br>
-      Asynchronous TCP server with io_context and thread pool. Features: authentication, rooms, message history in DB. Planning 1000+ concurrent clients.
+      <i>Stack: C++23, Boost.Beast, PostgreSQL(libpqxx)</i><br>
+      Asynchronous TCP server with io_context and thread pool.
       <br>
       <a href="https://github.com/nikitu0008-collab/Messenger-From-C-Boost-Beast">🔗 Go to repository</a>
     </td>
