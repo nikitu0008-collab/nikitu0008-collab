@@ -19,29 +19,29 @@
     <td width="50%" valign="top">
       <h3 align="center">🇷🇺 Русский</h3>
       <p align="justify">
-        Backend-разработчик на C++. Начинал с Python, но со временем увлёкся низкоуровневым программированием и управлением памятью. Сегодня C++ — мой основной инструмент, Python же использую для вспомогательных задач: скриптов, утилит, тестирования и кодогенерации.
+        Backend-разработчик с фокусом на C++. Начало карьеры связано с Python, однако основная специализация — низкоуровневое программирование и управление памятью. В настоящее время C++ является основным рабочим языком. Python применяется для разработки вспомогательных инструментов: скриптов, утилит, тестов и кодогенерации.
       </p>
       <ul>
-        <li>🔭 Углубляюсь в <strong>C++20/23</strong>: корутины, концепты, ranges, многопоточность</li>
-        <li>💻 Разрабатываю бэкенд-сервисы и вникаю в архитектуру высоконагруженных систем</li>
-        <li>🐍 Python для парсинга логов, кодогенерации (Jinja2), интеграционных тестов (pytest)</li>
-        <li>💬 Свободно владею русским и английским</li>
-        <li>📚 Постоянно читаю <strong>metanit.com</strong>, cppreference и документацию Boost</li>
-        <li>🦀 В планах — основательно изучить <strong>Rust</strong></li>
+        <li>🔭 Владею <strong>C++20/23</strong>, включая корутины, концепты, ranges, многопоточность</li>
+        <li>💻 Разрабатываю бэкенд-сервисы, изучаю архитектуру высоконагруженных систем</li>
+        <li>🐍 Использую Python для парсинга логов, кодогенерации (Jinja2), интеграционных тестов (pytest)</li>
+        <li>💬 Свободное владение русским и английским языками</li>
+        <li>📚 Регулярное изучение документации (cppreference, Boost, metanit.com)</li>
+        <li>🦀 Планирую глубокое изучение <strong>Rust</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🇬🇧 English</h3>
       <p align="justify">
-        Backend developer with a strong passion for C++. My journey started with Python, but I soon realized I enjoy low‑level programming and memory control more. Now C++ is my primary language, while Python serves for scripting, tooling, and automation.
+        Backend developer with a focus on C++. Started with Python, but core expertise lies in low‑level programming and memory management. C++ is now the primary language. Python is used for auxiliary tools: scripting, utilities, testing, and code generation.
       </p>
       <ul>
-        <li>🔭 Diving deep into <strong>C++20/23</strong>: coroutines, concepts, ranges, multithreading</li>
-        <li>💻 Building backend services and exploring high‑load system architecture</li>
-        <li>🐍 Python for log analysis, code generation (Jinja2), integration tests (pytest)</li>
+        <li>🔭 Proficient in <strong>C++20/23</strong> (coroutines, concepts, ranges, multithreading)</li>
+        <li>💻 Developing backend services, exploring high‑load system architecture</li>
+        <li>🐍 Python for log parsing, code generation (Jinja2), integration tests (pytest)</li>
         <li>💬 Fluent in Russian and English</li>
-        <li>📚 Frequent reader of <strong>metanit.com</strong>, cppreference, and Boost docs</li>
-        <li>🦀 Planning to dive deep into <strong>Rust</strong></li>
+        <li>📚 Regular study of documentation (cppreference, Boost, metanit.com)</li>
+        <li>🦀 Planning in‑depth study of <strong>Rust</strong></li>
       </ul>
     </td>
   </tr>
@@ -107,6 +107,22 @@
   <tr>
     <th width="50%">🇷🇺 Проект</th>
     <th width="50%">🇬🇧 Project</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>🖥️ System Visualizer</b><br>
+      <i>Стек: C++17, ncurses, Linux /proc</i><br>
+      Терминальный визуализатор системы с пульсирующим ASCII-сердцем, графиками CPU/RAM, отображением процессов, дисков, сети и systemd. Адаптивный интерфейс, цветовая индикация.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/System-Visualizer">🔗 Перейти в репозиторий</a>
+    </td>
+    <td valign="top">
+      <b>🖥️ System Visualizer</b><br>
+      <i>Stack: C++17, ncurses, Linux /proc</i><br>
+      Terminal system visualizer with beating ASCII heart, CPU/RAM graphs, process/disk/network/systemd monitoring. Adaptive layout, color coding.
+      <br>
+      <a href="https://github.com/nikitu0008-collab/System-Visualizer">🔗 Go to repository</a>
+    </td>
   </tr>
   <tr>
     <td valign="top">
