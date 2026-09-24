@@ -120,8 +120,6 @@ Integration tests for the messenger, log analyzer (latency percentiles), protoco
 
 </details>
 
-> 💡 **Tip**: если есть сертификаты — положи их PDF/JPEG в отдельный репозиторий (например, `Certificates`) и дай ссылку. «По запросу» вызывает вопросы у рекрутеров.
-
 ---
 
 ## 📊 GitHub Stats
