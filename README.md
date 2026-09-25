@@ -102,7 +102,7 @@ Integration tests for the messenger, log analyzer (latency percentiles), protoco
 
 | 🏫 | Описание |
 |----|----------|
-| 🎓 **IT Top College** | 2nd-year student, in-depth programming & IT |
+| 🎓 **IT Top College** | 3nd-year student, in-depth programming & IT |
 | 🐍 **КОД Будущего (Python)** | Python basics; helped transition to C++ |
 | 📚 **Яндекс Практикум** | Self-study materials on programming |
 | 🌐 **Metanit.com** | Constant reference for C++ and other tech |
