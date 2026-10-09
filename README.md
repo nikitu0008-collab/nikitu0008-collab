@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NikiZip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikiZip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=6" />
+  <img height="165" src="https://github-stats-extended.vercel.app?username=NikiZip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/api/top-langs/?username=NikiZip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=6" />
 </div>
 
 <div align="center">
