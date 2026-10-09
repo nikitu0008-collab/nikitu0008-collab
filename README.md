@@ -47,33 +47,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔧 Project Name 1</h3>
-      <p align="center">
-        <a href="https://github.com/NikiZip/project1">
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Короткое описание: что делает проект, какие технологии использованы, чем интересен.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Project Name 2</h3>
-      <p align="center">
-        <a href="https://github.com/NikiZip/project2">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Короткое описание: что делает проект, какие технологии использованы, чем интересен.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <sub>💬 Открыт к стажировкам и junior-позициям · Rust / C++ / Systems</sub>
 </div>
