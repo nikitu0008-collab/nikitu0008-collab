@@ -50,10 +50,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app?username=NikiZip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/api/top-langs/?username=NikiZip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=6" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=NikiZip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NikiZip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikiZip&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED" />
+  <img src="https://streak-stats.demolab.com/?user=NikiZip&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED" />
 </div>
