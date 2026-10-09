@@ -47,13 +47,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 Project Name 1</h3>
+      <p align="center">
+        <a href="https://github.com/NikiZip/project1">
+          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Короткое описание: что делает проект, какие технологии использованы, чем интересен.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Project Name 2</h3>
+      <p align="center">
+        <a href="https://github.com/NikiZip/project2">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Короткое описание: что делает проект, какие технологии использованы, чем интересен.</p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=NikiZip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NikiZip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NikiZip&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED" />
+  <sub>💬 Открыт к стажировкам и junior-позициям · Rust / C++ / Systems</sub>
 </div>
